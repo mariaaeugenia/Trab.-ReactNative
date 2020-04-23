@@ -11,7 +11,7 @@ $ sudo npm install expo-cli -g
 Uma vez Expo instalado, executar os seguintes comandos no terminal:
 ```sh
 $ git clone <endereco-do-repositorio>
-$ cd Formula1
+$ cd Trab.ReactNative
 $ npm install
 $ npm start
 ```

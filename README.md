@@ -1,4 +1,4 @@
-# FIAP | Trabalho React Native
+# Trabalho React Native
 
 
 ### Setup
@@ -11,7 +11,7 @@ $ sudo npm install expo-cli -g
 Uma vez Expo instalado, executar os seguintes comandos no terminal:
 ```sh
 $ git clone <endereco-do-repositorio>
-$ cd <diretorio-base>/Formula1/
+$ cd Formula1
 $ npm install
 $ npm start
 ```
